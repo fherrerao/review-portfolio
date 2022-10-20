@@ -31,11 +31,12 @@ header {
   height: 10vh;
 }
 
-.desktop-nav, .desktop-nav ul {
+.desktop-nav,
+.desktop-nav ul {
   display: none;
 }
 
-.desktop-nav.activated{
+.desktop-nav.activated {
   display: block;
 }
 
