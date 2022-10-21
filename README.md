@@ -21,11 +21,11 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Fernando Herrera**
 
-- GitHub: [@githubhandle](https://github.com/fherrerao) 
-- Twitter: [@twitterhandle](https://twitter.com/fherrera0206)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fherrerao)
+- GitHub: [@fherrerao](https://github.com/fherrerao) 
+- Twitter: [@fhererrera0206](https://twitter.com/fherrera0206)
+- LinkedIn: [fherrerao](https://www.linkedin.com/in/fherrerao)
 
 
 ## 🤝 Contributing
